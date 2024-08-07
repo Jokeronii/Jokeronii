@@ -1,6 +1,6 @@
 # 👾 Jokeronii's GitHub Profile
 
-![Banner](https://spy-family.net/tvseries/assets/img/special/episode13/03.png) <!-- Add a banner image to give your profile a unique look -->
+<!--![Banner](https://spy-family.net/tvseries/assets/img/special/episode13/03.png)--> <!-- Add a banner image to give your profile a unique look -->
 
 ## 👋 Hello there!
 
